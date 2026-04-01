@@ -84,5 +84,5 @@ Aspiring Data Analyst
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: (Add your link)  
-- GitHub: (Your profile link)
+- LinkedIn: www.linkedin.com/in/contact-kalyani-gunjal
+- GitHub: https://github.com/kalyani-analytics
