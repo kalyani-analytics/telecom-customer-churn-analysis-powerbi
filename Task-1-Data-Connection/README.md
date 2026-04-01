@@ -5,13 +5,14 @@ Import the customer churn dataset into Power BI to enable data visualization and
 
 ---
 
-📂 Dataset
-The dataset contains customer information from a telecommunications company, including:
-- Customer demographics
-- Services subscribed
-- Account details
-- Churn status
 
+## 📂 Dataset Overview
+
+The dataset represents customer information from a **telecommunications company** and is widely used for churn analysis.
+
+### 📊 Dataset Size:
+- **Total Rows:** 7043  
+- **Total Columns:** 21  
 ---
 
 🛠️ Steps Performed
@@ -24,3 +25,10 @@ The dataset contains customer information from a telecommunications company, inc
 ---
 
 ![Data Connection](data-connection.png)
+
+---
+💡 Key Learning
+
+- Learned how to import data into Power BI  
+- Understood dataset structure and business context  
+- Prepared data foundation for further analysis  
