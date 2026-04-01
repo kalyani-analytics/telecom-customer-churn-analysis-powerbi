@@ -44,7 +44,10 @@ Display an overview of the churn rate,indicating the percentage of the customer 
 ## 📈 Key Insights
 - 📌 Customers without partners show higher churn  
 - 📌 Customers without dependents are more likely to churn  
-- 📌 Gender has minimal impact on churn behavior  
+- 📌 Gender has minimal impact on churn behavior
+
+---
+![Customer Demographic Dashboard](customer-demographics.png)
 
 ---
 
@@ -59,7 +62,10 @@ Display an overview of the churn rate,indicating the percentage of the customer 
 ## 📈 Key Insights
 - 📌 High churn observed in early tenure (0–12 months)  
 - 📌 Churn decreases as tenure increases  
-- 📌 Long-term customers show strong retention  
+- 📌 Long-term customers show strong retention
+
+---
+![Customer Tenure Analysis Dashboard](customer-tenure.png)
 
 ---
 
@@ -78,6 +84,10 @@ Display an overview of the churn rate,indicating the percentage of the customer 
 
 ---
 
+![Churn Analysis](churn-analysis.png)
+
+---
+
 ## 🎛️ Interactive Features
 
 ### Slicers Used:
@@ -87,26 +97,6 @@ Display an overview of the churn rate,indicating the percentage of the customer 
 - Payment Method  
 
 👉 Enables dynamic filtering and better analysis  
-
----
-
-## 📸 Dashboard Screenshot
-
-![Customer Churn Dashboard](dashboard.png)
-
----
-
-## 💡 Business Impact
-- Helps identify key churn drivers  
-- Supports customer retention strategies  
-- Enables data-driven decision-making  
-
----
-
-## ✅ Outcome
-- Developed a comprehensive churn analysis dashboard  
-- Combined multiple analytical views into one report  
-- Delivered actionable insights for business improvement  
 
 ---
 
