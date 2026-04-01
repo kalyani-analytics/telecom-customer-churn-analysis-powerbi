@@ -58,7 +58,7 @@ This project focuses on analyzing customer churn in a telecommunications company
 
 ## 📸 Dashboard Preview
 
-
+![Final Dashboard](final-dashboard.png)
 
 ---
 
