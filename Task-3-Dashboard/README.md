@@ -30,7 +30,7 @@ Display an overview of the churn rate,indicating the percentage of the customer 
 - 📌 Majority of customers are active, but a significant portion has churned  
 
 ---
-![Customer Churn Dashboard](dashboard.png)
+![Customer Churn Rate Dashboard](churn-rate-overview.png)
 
 ---
 
