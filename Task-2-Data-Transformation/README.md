@@ -94,8 +94,6 @@ Created a new column to categorize customers:
 
 ---
 
----
-
 💡 Key Learning
 
 - Learned data cleaning techniques in Power BI  
